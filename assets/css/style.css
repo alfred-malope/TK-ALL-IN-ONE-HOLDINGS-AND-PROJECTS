@@ -420,6 +420,10 @@ header .navbar ul li a:hover {
 
 /* about media queries starts*/
 @media screen and (max-width: 600px) {
+    section {
+            min-height: 100vh;
+            padding: 0 3%;
+    }
     .about .row .image {
         margin-top: 2rem;
     }
