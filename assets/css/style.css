@@ -209,9 +209,9 @@ header .navbar ul li a:hover {
     header .navbar ul li a.active,
     header .navbar ul li a:hover {
         padding: 1rem;
-        color: #000000;
+        color: #c80000;
         border-radius: 0.5rem;
-        border-bottom: 0.5rem solid #c80000;
+        /* border-bottom: 0.5rem solid #c80000; */
     }
 
     .fa-times {
