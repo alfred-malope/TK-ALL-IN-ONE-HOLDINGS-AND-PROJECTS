@@ -272,86 +272,10 @@ header .navbar ul li a:hover {
     background-color: #b92025c9;
     font-size: 3rem;
     color: #fff;
-    /* z-index: 1000; */
 }
 
 
-/* hero media queries starts*/
-/* @media (max-width: 620px) {
-    .home {
-        height: 100vh;
-        display: grid;
-        grid-template-columns: 1fr;
-    }
 
-    .home .content {
-        order: 2;
-        margin-top: -16rem;
-    }
-
-    .home .btn {
-        margin: 1rem -7rem;
-    }
-
-    .home .image {
-        order: 1;
-    }
-
-    .home .image img {
-        order: 1;
-        margin-top: -2rem;
-    }
-        .testi-content {
-            flex-direction: column;
-        }
-
-}
-
-@media (max-width: 450px) {
-    .home {
-        height: 100vh;
-        display: grid;
-        grid-template-columns: 1fr;
-    }
-
-    .home .content {
-        order: 2;
-        margin-top: -22rem;
-    }
-
-    .home .content h2 {
-        font-size: 3.5rem;
-    }
-
-    .home .content h2 span {
-        font-size: 3.5rem;
-    }
-
-    .home .content p {
-        font-size: 2.2rem;
-    }
-
-    .home .content p span {
-        font-size: 2.2rem;
-    }
-
-    .home .btn {
-        margin: 1rem -7rem;
-    }
-
-    .home .image {
-        order: 1;
-    }
-
-    .home .image img {
-        order: 1;
-        margin-top: -2rem;
-    }
-
-} */
-
-/* hero media queries ends*/
-/* hero section end */
 
 /* about section starts */
 .about {
@@ -404,16 +328,6 @@ header .navbar ul li a:hover {
     text-transform: none;
     margin-left: 1.8rem;
 }
-
-
-/* .about .row .content .box-container {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 1.5rem;
-    font-family: "Nunito";
-    font-weight: 600;
-} */
-
 
 
 /* about media queries starts*/
